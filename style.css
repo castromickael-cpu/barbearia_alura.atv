@@ -7,7 +7,7 @@ body {
 }
 
 .principal{
-	background: #CCCCCC;
+	background: #f0ebeb;
 	padding: 30px;
 }
 
@@ -36,7 +36,7 @@ em strong {
 }
 
 .beneficios {
-	background: #FFFFFF;
+	background: #030303;
 	padding: 20px;
 }
 
@@ -49,4 +49,8 @@ ul {
 
 .imagembeneficios {
 	width: 50%;
+}
+
+.itens {
+  color: rgb(255, 255, 255);
 }
